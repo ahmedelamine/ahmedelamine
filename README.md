@@ -10,4 +10,4 @@
 - 💬 Ask me about web development
 - 📫 How to reach me: [Instagram](https://www.instagram.com/ahmedelamine5) @ahmedelamine5
 - 😄 Pronouns: He
-- ⚡ Fun fact: I am a full stack developer
+- ⚡ Fun fact: A Jack of all trades is a master of none, but oftentimes better than a master of one
